@@ -18,7 +18,13 @@ class WeatherController extends Controller
      */
     public function index()
     {
+        $lat = "50.8419482";
+        $lng = "7.9645187";
 
+        $hourlyForecast = Weather::hourlyForecast($lat, $lng);
+        $dailyForecast = Weather::dailyForecast($lat, $lng);
+
+        return view('weather/index', ["hourly" => $hourlyForecast, "daily" => $dailyForecast]);
     }
 
     /**
