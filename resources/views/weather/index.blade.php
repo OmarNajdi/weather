@@ -9,8 +9,6 @@
 
     <title>Weather</title>
 
-    <link rel="apple-touch-icon" href="https://getbootstrapadmin.com/remark/base/assets/images/apple-touch-icon.png">
-    <link rel="shortcut icon" href="https://getbootstrapadmin.com/remark/base/assets/images/favicon.ico">
 
     <!-- Stylesheets -->
     <link rel="stylesheet" href="https://getbootstrapadmin.com/remark/global/css/bootstrap.min.css?v4.0.2">
@@ -34,15 +32,6 @@
     <link rel='stylesheet' href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,300italic">
 
     <link rel="stylesheet" href="https://getbootstrapadmin.com/remark/global/fonts/weather-icons/weather-icons.min.css?v4.0.2">
-
-    <!--[if lt IE 9]>
-    <script src="https://getbootstrapadmin.com/remark/global/vendor/html5shiv/html5shiv.min.js?v4.0.2"></script>
-    <![endif]-->
-
-    <!--[if lt IE 10]>
-    <script src="https://getbootstrapadmin.com/remark/global/vendor/media-match/media.match.min.js?v4.0.2"></script>
-    <script src="https://getbootstrapadmin.com/remark/global/vendor/respond/respond.min.js?v4.0.2"></script>
-    <![endif]-->
 
     <!-- Scripts -->
     <script src="https://getbootstrapadmin.com/remark/global/vendor/breakpoints/breakpoints.min.js?v4.0.2"></script>
